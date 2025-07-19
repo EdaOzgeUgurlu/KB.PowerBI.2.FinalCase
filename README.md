@@ -228,8 +228,6 @@ Geliştirmeye açık bir projedir. Kullanıcı giriş sayfası, canlı veriler, 
 Power BI Linki : 
 https://app.powerbi.com/links/zaK_8qZfvE?ctid=e5714f9e-09d8-4b08-9d5a-4bf08b29b891&pbi_source=linkShare
 
-https://app.powerbi.com/groups/me/reports/4ec7fa7d-d600-4b3a-9969-e3cbb2eea609/3e55d9279af29d5da711?experience=power-bi
-
 Proje google drive linkinden de çalıştırabilirsiniz 
 https://drive.google.com/drive/u/0/folders/1boYmJwK6vFly-HD9CK32QTmOOOjA3GyB
 
